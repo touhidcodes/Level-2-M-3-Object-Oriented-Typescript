@@ -33,8 +33,5 @@
       this._protectedBalance;
     }
   }
-
-  const bankAccount1 = new BankAccount(111, "Mr. Banker", 200, 0);
-  bankAccount1.addDeposit(200);
   //
 }
